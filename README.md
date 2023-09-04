@@ -13,4 +13,3 @@ I'm passionate about technology and love diving into the world of coding and dev
 
 🌱 I'm currently honing my skills in various programming languages and frameworks, and I'm excited to contribute to the tech community.
 
-📫 Let's connect and learn together! Feel free to reach out to me on [LinkedIn or GitHub profile link].
